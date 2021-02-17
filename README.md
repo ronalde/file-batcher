@@ -1,4 +1,5 @@
-# File Batcher
+[![NPM](https://nodei.co/npm/frontmatter-file-batcher.png?mini=true)](https://npmjs.org/package/frontmatter-file-batcher)
+# Frontmatter File Batcher
 
 A tool to batch process large quantities of files asynchronously. It provides you some convenient tools to edit Front Matter fueled Markdown files (the stuff that most static site generators use). But is not limited to any specific filetype or format.
 
@@ -24,7 +25,7 @@ It could be used for for example to:
 ## Install
 
 ```
-npm i file-batcher
+npm i frontmatter-file-batcher
 ```
 
 ## Usage
